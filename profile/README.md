@@ -1,4 +1,4 @@
-# CAMSAI
+# CAMSAI.org
 
 Welcome to the **Consortium for the Advancement of Materials Science with AI (CAMSAI)** GitHub organization. This organization, part of [The Alliance for AI](https://thealliance.ai), hosts repositories focused on utilizing artificial intelligence (AI) to advance research and innovation in materials science, chemistry, and related fields.
 
@@ -61,6 +61,7 @@ Contributions to CAMSAI repositories are encouraged. To contribute:
 ## **Contact and Support**
 
 For inquiries, support, or collaboration opportunities, contact us at:  
+📧 **Website**: [camsai.org](https://camsai.org)  
 📧 **Email**: [info@camsai.org](mailto:info@camsai.org)  
 🌐 **Parent Organization**: [The Alliance for AI](https://thealliance.ai)
 
