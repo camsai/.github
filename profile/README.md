@@ -23,6 +23,13 @@ infrastructure provider, an HPC hardware provider, an AI models provider, and
 an independent practitioner — so that no single organization or sector controls
 the consortium.
 
+Organizations that commit substantial resources, and constituencies that do not
+hold a seat, have a standing non-voting channel to the Steering Committee
+through the
+[Advisory Council](https://github.com/camsai/governance/blob/main/GOVERNANCE.md).
+Support is acknowledged publicly and confers no governance rights; that
+separation is deliberate.
+
 Governance documents are versioned by date tag, and each version is published
 as a consolidated PDF under
 [releases](https://github.com/camsai/governance/releases).
@@ -30,7 +37,8 @@ as a consolidated PDF under
 > CAMSAI is not yet incorporated. It has no separate legal personality and
 > cannot enter contracts, hold property, or receive funds in its own name. See
 > the [Charter](https://github.com/camsai/governance/blob/main/CHARTER.md),
-> section 8.
+> section 11, which also says what happens if that is still true at the end of
+> 2027.
 
 ## Projects
 

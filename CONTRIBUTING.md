@@ -19,6 +19,22 @@ precedence for that project.
 -   **Provenance.** Do not contribute code, data, or text that you do not have
     the right to distribute under the repository's license. Third-party
     material must be identified with its origin and license.
+-   **Rights you must clear first.** If your employer or institution owns or
+    asserts rights in your work, clear it with them before contributing.
+    Students and postdoctoral researchers should check their institution's IP
+    policy: a personal sign-off does not displace an institution's ownership
+    claim. The full terms are in
+    [Charter](https://github.com/camsai/governance/blob/main/CHARTER.md),
+    section 5.
+-   **Patents.** The outbound Apache-2.0 license includes the patent grant in
+    its section 3, and CAMSAI requires no patent commitment beyond that.
+-   **Publication.** Nothing in CAMSAI's governance restricts you from
+    publishing research derived from CAMSAI projects. There is no embargo and
+    no pre-publication review.
+-   **Export control.** CAMSAI does not accept classified, controlled
+    unclassified, or export-controlled material. Complete whatever release
+    review your institution requires before contributing; publishing to a
+    public repository cannot be undone.
 -   **Conduct.** All CAMSAI spaces are governed by the
     [Code of Conduct](https://github.com/camsai/governance/blob/main/CODE_OF_CONDUCT.md).
 

@@ -23,4 +23,4 @@ before disclosing publicly.
 Every CAMSAI project is required to document a way to report a vulnerability
 privately; see
 [project intake](https://github.com/camsai/governance/blob/main/GOVERNANCE.md),
-section 6.
+section 7.
