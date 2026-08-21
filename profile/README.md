@@ -1,72 +1,65 @@
-# CAMSAI.org
+# CAMSAI
 
-Welcome to the **Consortium for the Advancement of Materials Science with AI (CAMSAI)** GitHub organization. This organization, part of [The Alliance for AI](https://thealliance.ai), hosts repositories focused on utilizing artificial intelligence (AI) to advance research and innovation in materials science, chemistry, and related fields.
+The **Consortium for the Advancement of Materials Science with AI (CAMSAI)** is
+an open, vendor-neutral community devoted to **advancing materials science with
+AI**. We develop and sustain open-source software, open data standards, and
+open educational material, and convene the people who build and use them across
+national laboratories, universities, industry, and independent practice.
 
----
+CAMSAI participates in the [AI Alliance](https://thealliance.ai) community.
 
-## **About CAMSAI**
+## Governance
 
-The **Consortium for the Advancement of Materials Science with AI (CAMSAI)** operates as an interdisciplinary initiative under the guidance of [The Alliance for AI](https://thealliance.ai). It combines expertise in **materials science**, **chemistry**, **data science**, and **computer science** to accelerate progress in materials research through the application of AI.
+CAMSAI's charter, decision rules, steering roster, and trademark policy live in
+one place:
 
----
+### [**camsai/governance**](https://github.com/camsai/governance)
 
-## **Objectives**
+Decisions are made in the open. Routine matters carry by lazy consensus;
+constitutional changes and project intake require a recorded vote of the
+Steering Committee, which has seven seats allocated by constituency — a
+government laboratory, an academic institution, a startup, a cloud
+infrastructure provider, an HPC hardware provider, an AI models provider, and
+an independent practitioner — so that no single organization or sector controls
+the consortium.
 
-- Develop and share AI tools for materials discovery, property prediction, and optimization.
-- Facilitate the integration of computational and experimental methodologies in materials science.
-- Promote sustainable and efficient materials design using AI-driven innovations.
-- Support interdisciplinary collaboration by providing accessible, open-source tools, models, and resources.
+Governance documents are versioned by date tag, and each version is published
+as a consolidated PDF under
+[releases](https://github.com/camsai/governance/releases).
 
----
+> CAMSAI is not yet incorporated. It has no separate legal personality and
+> cannot enter contracts, hold property, or receive funds in its own name. See
+> the [Charter](https://github.com/camsai/governance/blob/main/CHARTER.md),
+> section 8.
 
-## **Repositories Overview**
+## Projects
 
-The CAMSAI GitHub organization includes repositories in the following categories:
-1. **AI Tools and Frameworks**  
-   Libraries and utilities designed to support materials modeling, property prediction, and structure optimization.
+| Project | What it is |
+| --- | --- |
+| [standards](https://github.com/camsai/standards) | Schemas, validation tools, and data models for materials science and AI research |
+| [notebooks](https://github.com/camsai/notebooks) | Interactive notebooks demonstrating CAMSAI tools and workflows |
+| [jupyterlite](https://github.com/camsai/jupyterlite) | A browser-based environment for running CAMSAI notebooks without local setup |
+| [actions](https://github.com/camsai/actions) | Shared continuous-integration workflows for CAMSAI repositories |
 
-2. **Datasets**  
-   Open datasets curated for training and validating machine learning models in materials and chemical research.
+An AI-native codebase for materials science is incubating for public release
+later in 2026.
 
-3. **Pre-trained Models**  
-   AI models built for specific applications, such as property prediction and generative design.
+## Contributing
 
-4. **Example Workflows**  
-   Jupyter notebooks and scripts demonstrating practical applications of CAMSAI tools and models.
+Contributions are welcome from anyone. Each repository documents how to build
+it and what it expects from a change; the terms that apply across all of them
+are:
 
-5. **Documentation and Resources**  
-   Comprehensive references, guides, and best practices for using and contributing to CAMSAI resources.
+-   Code is released under the **Apache License 2.0**; documents, standards,
+    and educational material under **CC BY 4.0**.
+-   Contributions are accepted under the
+    [Developer Certificate of Origin](https://developercertificate.org/) —
+    sign off your commits with `git commit -s`. There is no contributor license
+    agreement.
+-   All CAMSAI spaces are governed by our
+    [Code of Conduct](https://github.com/camsai/governance/blob/main/CODE_OF_CONDUCT.md).
 
----
-
-## **How to Use This Organization**
-
-- Browse repositories to locate tools, datasets, and models applicable to your research or development needs.
-- Clone repositories for local use or extend their functionalities for custom applications.
-- Review example workflows to learn how CAMSAI tools can address specific materials science problems.
-- Access documentation for detailed instructions, API references, and troubleshooting tips.
-
----
-
-## **Contributing**
-
-Contributions to CAMSAI repositories are encouraged. To contribute:
-1. Fork the relevant repository.
-2. Create a new branch for your proposed changes.
-3. Commit your updates and push them to your branch.
-4. Open a pull request to the repository for review and potential inclusion.
-
----
-
-## **Contact and Support**
-
-For inquiries, support, or collaboration opportunities, contact us at:  
-📧 **Website**: [camsai.org](https://camsai.org)  
-📧 **Email**: [info@camsai.org](mailto:info@camsai.org)  
-🌐 **Parent Organization**: [The Alliance for AI](https://thealliance.ai)
-
----
-
-## **License**
-
-Unless otherwise stated, repositories in this organization are licensed under the **Apache License 2.0**. Refer to the `LICENSE` file in each repository for detailed licensing terms. For more information about the license, visit [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0).
+To propose something that spans the consortium rather than a single project —
+a new project, a change to how we govern ourselves — open a pull request or an
+issue against
+[camsai/governance](https://github.com/camsai/governance).
